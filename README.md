@@ -2,7 +2,7 @@
 
 #### Network Security & Vulnerability Scanning
 
-**Intern:** Juveriya
+**Intern:** Firdous Jahan Begum
 **Organization:** ApexPlanet Software Private Limited
 **Lab Environment:** Kali Linux Rolling (WSL2 on Windows)
 **Authorized Targets:** scanme.nmap.org (45.33.32.156) & Local Loopback (127.0.0.1) 
